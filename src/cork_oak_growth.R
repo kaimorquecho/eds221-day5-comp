@@ -10,3 +10,4 @@
 height_t2 <- function(height_t1, t1, t2) {
   20.7216 / (1 - (1 - 20.7216 / height_t1) * (t1 / t2) ^ 1.4486)
 }
+    
